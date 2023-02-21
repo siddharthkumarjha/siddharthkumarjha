@@ -1,12 +1,12 @@
 # Hello, I'm Siddharth! 👋
 
-- 🏫 I'm a CSE student at KIIT Bhubaneshwar, with a passion for open-source :octocat: and a love for driving cars. :car: 
+- 🏫 I'm a CSE student at KIIT Bhubaneshwar, with a passion for open-source :octocat: and a love for driving cars. 🚗 
 - 🌱 I'm an aspiring software engineer, and I'm proficient in C/C++, Python, Bash, HTML, and CSS. 
 - 👀 I'm also interested in web development, and have created a cool [custom CSS theme for Vivaldi](https://themes.vivaldi.net/themes/Qbnlj4pmJ2m) .
 
-## Open-source Contributions :globe_with_meridians:
+## Open-source Contributions 🌐
 
-- [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq): I found and documented a solution to a problem that Arch users were having with the software, the project has received over 3.5K stars and has 45+ active contributors.
+- [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq): I found and documented a solution to a problem that Arch users were having with the software, the project has received over 3.5K stars ⭐ and has 45+ active contributors.
 
 ## Projects :octocat:
 
