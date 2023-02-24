@@ -15,6 +15,13 @@
 Feel free to check out my [GitHub profile](https://github.com/siddharthkumarjha/) for more projects and contributions. 💞️ I'm always interested in collaborating on new projects, so feel free to reach out to me!
 - 📫 How to reach me? mail me at siddharthkjha6909@gmail.com or visit my [site](https://siddharthkumarjha.github.io/)
 
+<details>
+  <summary>stats</summary>
+  <br>
+  
+  ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthkumarjha&show_icons=true&theme=dracula)
+</details>
+
 <!---
 siddharthkumarjha/siddharthkumarjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
