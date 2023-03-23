@@ -10,7 +10,8 @@
 
 ## Projects :octocat:
 
-- [starship-update-hook](https://github.com/siddharthkumarjha/starship-update-hook): An update hook for the Starship cross-shell prompt, which checks both the remote and local version to decide if updating is necessary. Currently under development
+- [starship-update-script](https://github.com/siddharthkumarjha/starship-update-script): An update wrapper for the Starship cross-shell prompt, which checks both the remote and local version to decide if updating is necessary. Currently under development.
+- [Funngro landing page](https://siddharthkumarjha.github.io/Funngro): I designed a landing page for the startup funngro as a part of my evaluation project. The landing page attempts to curb the current bugs that their website has.
 
 Feel free to check out my [GitHub profile](https://github.com/siddharthkumarjha/) for more projects and contributions. 💞️ I'm always interested in collaborating on new projects, so feel free to reach out to me!
 - 📫 How to reach me? mail me at siddharthkjha6909@gmail.com or visit my [site](https://siddharthkumarjha.github.io/)
