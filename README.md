@@ -12,6 +12,8 @@
 
 - [starship-update-script](https://github.com/siddharthkumarjha/starship-update-script): An update wrapper for the Starship cross-shell prompt, which checks both the remote and local version to decide if updating is necessary. Currently under development.
 - [Funngro landing page](https://siddharthkumarjha.github.io/Funngro): I designed an interactive landing page for the startup funngro as a part of my evaluation project. The landing page attempts to curb the current bugs that their website has.
+- [Aurionpro helpdesk webapp](https://github.com/siddharthkumarjha/Aurionpro-helpdesk-webapp): I have built a fullstack webapp using react for frontend and nodejs for backend integration with mysql. It has role based login and is meant to handle ticket generation, updation, linking, and emailing to respective parties. It currently handles sending emails via a sandboxed mailtrap's smtp server which can be easily replaced with a real smtp. It has three types of roles at the moment: user, employee and manager. 
+  * The project is currently being tested by aurionpro before being deployed on their production server.
 
 Feel free to check out my [GitHub profile](https://github.com/siddharthkumarjha/) for more projects and contributions. 💞️ I'm always interested in collaborating on new projects, so feel free to reach out to me!
 - 📫 How to reach me? mail me at siddharthkjha6909@gmail.com or visit my [site](https://siddharthkumarjha.github.io/)
