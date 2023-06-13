@@ -6,7 +6,7 @@
 
 ## Open-source Contributions 🌐
 
-- [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq): I found and documented a solution to a problem that Arch users were having with the software, the project has received over 3.5K stars ⭐ and has 45+ active contributors.
+- [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq/releases/tag/v1.9.8): I found and documented a solution to a problem that Arch users were having with the software, the project has received over 3.5K stars ⭐ and has 45+ active contributors.
 
 ## Projects :octocat:
 
