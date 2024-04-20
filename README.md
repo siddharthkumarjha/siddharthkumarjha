@@ -14,7 +14,6 @@
 
 - [Funngro landing page](https://siddharthkumarjha.github.io/Funngro): I designed an interactive landing page for the startup funngro as a part of my evaluation project. The landing page attempts to curb the current bugs that their website has.
 - [Aurionpro helpdesk webapp](https://github.com/siddharthkumarjha/Aurionpro-helpdesk-webapp): I have built a fullstack webapp using react for frontend and nodejs for backend integration with mysql. It has role based login and is meant to handle ticket generation, updation, linking, and emailing to respective parties. It currently handles sending emails via a sandboxed mailtrap's smtp server which can be easily replaced with a real smtp. It has three types of roles at the moment: user, employee and manager. 
-  * The project is currently being tested by aurionpro before being deployed on their production server.
 
 ## What I am currently working on? 
 - [Arduino baremetal](https://github.com/siddharthkumarjha/arduino-baremetal): I have always been facinated with baremetal low level code so I am working on writing that. Simple examples nothing crazy yet. But eventually I wish to participate in projects like tock and linux.
